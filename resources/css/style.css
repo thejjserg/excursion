@@ -30,3 +30,11 @@ body {
 	color: #7FFFD4;
 
 }
+
+
+/* FOOTER */
+.footer--copyright {
+	font-size: 21px;
+	text-align: right;
+	color: #808080;
+}
