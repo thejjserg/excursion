@@ -15,7 +15,7 @@ body {
 .header--secondary {
 	font-weight: 300;
 	font-size: 42px;
-	font-color: #ffffff;
+	color: #ffffff;
 }
 
 .header--sub-header {
